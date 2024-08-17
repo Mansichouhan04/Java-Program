@@ -1,6 +1,6 @@
-//package _concept.Array_StringPractice;
+package _concept.Array_StringPractice;
 //write a program to most repeated character in a string.>>>>>>
-public class Reoeatedcharacter {
+public class RepeatedCharacter {
     public static void main(String[] args) {
         String str="test String";
         char mostfrequentchar=' ';
